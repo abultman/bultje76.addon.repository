@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="bultje76.addon.repository"
+  version="1.0.0"
+  name="Bultje76 Xbmc repository"
+  provider-name="Arne Bultman">
+<extension point="xbmc.addon.repository"
+              name="Addon repository for makemkv addon">
+    <info compressed="true">http://raw.github.com/bultje76.addon.repository/addons.xml</info>
+    <checksum>http://raw.github.com/bultje76.addon.repository/addons.md5</checksum>
+    <datadir zip="true">http://raw.github.com/bultje76.addon.repository/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Magnetisms repo</summary>
+    <description>Repo containing Magnetisms addons. MakeMkv and disneyinfo</description>
+    <disclaimer>No warranty ;)</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
