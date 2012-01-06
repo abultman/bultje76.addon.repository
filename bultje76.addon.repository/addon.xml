@@ -6,9 +6,9 @@
   provider-name="Arne Bultman">
 <extension point="xbmc.addon.repository"
               name="Addon repository for makemkv addon">
-    <info compressed="true">http://raw.github.com/bultje76.addon.repository/addons.xml</info>
-    <checksum>http://raw.github.com/bultje76.addon.repository/addons.md5</checksum>
-    <datadir zip="true">http://raw.github.com/bultje76.addon.repository/</datadir>
+    <info compressed="true">http://raw.github.com/bultje76.addon.repository/master/addons.xml</info>
+    <checksum>http://raw.github.com/bultje76.addon.repository/master/addons.md5</checksum>
+    <datadir zip="true">http://raw.github.com/bultje76.addon.repository/master/</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Magnetisms repo</summary>
